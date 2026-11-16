@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Automotive Engineering Suite](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/automotive-engineering-suite)
+[![Download Automotive Engineering Suite](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/YBhZMXIAryfxFgZGl)
 
 </div>
 
@@ -151,7 +151,7 @@
 
 <div align="center">
 
-[![Download Automotive Engineering Suite](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/automotive-engineering-suite)
+[![Download Automotive Engineering Suite](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/YBhZMXIAryfxFgZGl)
 
 </div>
 
@@ -321,7 +321,7 @@ Design and simulate vehicles like a professional for free. **Automotive Engineer
 
 <div align="center">
 
-[![Download Automotive Engineering Suite](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/automotive-engineering-suite)
+[![Download Automotive Engineering Suite](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/YBhZMXIAryfxFgZGl)
 
 **Version 3.0.2** — Free automotive design and simulation software. May 2026 update. Zero cost. No payment.
 
